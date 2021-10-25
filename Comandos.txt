@@ -1,0 +1,4 @@
+Comandos
+
+* TensorBoard: tensorboard --logdir="ENDEREÇO_ITEM"
+	Ex: tensorboard --logdir="D:\Leticia\Documentos\Cursos Udemy\MachineLearning\Sessao_3_SintaxeBasica\output"
